@@ -3,8 +3,8 @@
  
 float encrypt[3][1], decrypt[3][1], a[3][3], b[3][3], mes[3][1], c[3][3];
  
-void encryption();
-void decryption(); 
+void encryption(); 
+void decryption();
 void getKeyMessage(); 
 void inverse(); 
  
